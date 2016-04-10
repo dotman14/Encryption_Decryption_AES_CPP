@@ -8,14 +8,14 @@ Desc:       Implementation file for encryption and decryption program.
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <C:\Users\dotun\Documents\Cryptocpp\osrng.h>
-#include <C:\Users\dotun\Documents\Cryptocpp\cryptlib.h>
-#include <C:\Users\dotun\Documents\Cryptocpp\hex.h>
-#include <C:\Users\dotun\Documents\Cryptocpp\filters.h>
-#include <C:\Users\dotun\Documents\Cryptocpp\files.h>
-#include <C:\Users\dotun\Documents\Cryptocpp\aes.h>
-#include <C:\Users\dotun\Documents\Cryptocpp\modes.h>
-#include <C:\Users\dotun\Documents\Cryptocpp\sha.h>
+#include <C:\path\to\Cryptocpp\osrng.h>
+#include <C:\path\to\Cryptocpp\cryptlib.h>
+#include <C:\path\to\Cryptocpp\hex.h>
+#include <C:\path\to\Cryptocpp\filters.h>
+#include <C:\path\to\Cryptocpp\files.h>
+#include <C:\path\to\Cryptocpp\aes.h>
+#include <C:\path\to\Cryptocpp\modes.h>
+#include <C:\path\to\Cryptocpp\sha.h>
 #include "CryptAES.h"
 using namespace std;
 
